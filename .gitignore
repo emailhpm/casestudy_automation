@@ -1,0 +1,12 @@
+# Secrets – niemals committen
+.env
+*.pk
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Ausgaben / Zwischenstände
+output/
+.DS_Store
